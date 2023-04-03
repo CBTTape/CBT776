@@ -1,0 +1,26 @@
+2023-04-03 02:35:36.196409 - Initialized conversion of CBT776
+2023-04-03 02:35:36.406887 - Received CBT.V504.FILE776.PDS from FILE776.XMI 
+2023-04-03 02:35:36.409469 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:35:36.410786 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:35:36.411945 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:35:36.412903 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/$$NOTE3
+2023-04-03 02:35:36.413914 - Found $$NOTE4.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/$$NOTE4
+2023-04-03 02:35:36.414868 - Found @DCUSER.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/@DCUSER
+2023-04-03 02:35:36.415789 - Found @FILE776.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/@FILE776
+2023-04-03 02:35:36.415800 - Found EPUTL.bin containing application/octet-stream, moved to PDS/EPUTL
+2023-04-03 02:35:36.417620 - Found EPUTLJCL.jcl (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/EPUTLJCL
+2023-04-03 02:35:36.417630 - Found EPUTLOLD.bin containing application/octet-stream, moved to PDS/EPUTLOLD
+2023-04-03 02:35:36.419479 - Found EPUTLSRC.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/EPUTLSRC
+2023-04-03 02:35:36.420453 - Found JCC037.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/JCC037
+2023-04-03 02:35:36.421403 - Found README03.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/README03
+2023-04-03 02:35:36.421414 - Found RECV390.zip (application/zip), trying to unzip
+2023-04-03 02:35:36.421744 - Found RECV390.zip (application/zip), extracting to CBT776/RECV390
+2023-04-03 02:35:36.425186 - Found SAMPINFO.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/SAMPINFO
+2023-04-03 02:35:36.426191 - Found XMCLIST.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/XMCLIST
+2023-04-03 02:35:36.427115 - Found XMCLIST$.jcl (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/XMCLIST$
+2023-04-03 02:35:36.460923 - Found XMCLOAD.xmi (application/xmit) in CBT.V504.FILE776.PDS
+2023-04-03 02:35:36.469437   - Received RECFM=U data, stored XMIT file as CBT776/XMCLOAD.xmi
+2023-04-03 02:35:36.470415 - Found XMCUTIL.txt (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/XMCUTIL
+2023-04-03 02:35:36.471384 - Found XMCUTIL$.jcl (text/plain) in CBT.V504.FILE776.PDS, moved to PDS/XMCUTIL$
+2023-04-03 02:35:36.471395 - Found X86ZIP.zip (application/zip), trying to unzip
+2023-04-03 02:35:36.471527 - Found X86ZIP.zip (application/zip), extracting to CBT776/X86ZIP

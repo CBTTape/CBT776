@@ -1,25 +1,25 @@
-2025-04-13 22:44:33.756439 - Received CBT.V508.FILE776.PDS from FILE776.XMI 
-2025-04-13 22:44:33.758185 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:44:33.758299 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE1
-2025-04-13 22:44:33.758383 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE2
-2025-04-13 22:44:33.758461 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE3
-2025-04-13 22:44:33.758545 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE4
-2025-04-13 22:44:33.758652 - Found @DCUSER.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/@DCUSER
-2025-04-13 22:44:33.758733 - Found @FILE776.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/@FILE776
-2025-04-13 22:44:33.758814 - Found EPUTL.bin (application/octet-stream) in CBT.V508.FILE776.PDS, moved to PDS/EPUTL
-2025-04-13 22:44:33.758892 - Found EPUTLJCL.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLJCL
-2025-04-13 22:44:33.758972 - Found EPUTLOLD.bin (application/octet-stream) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLOLD
-2025-04-13 22:44:33.759058 - Found EPUTLSRC.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLSRC
-2025-04-13 22:44:33.759137 - Found JCC037.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/JCC037
-2025-04-13 22:44:33.759223 - Found README03.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/README03
-2025-04-13 22:44:33.762294 - Found RECV390.zip (application/zip) in CBT.V508.FILE776.PDS, moved to RECV390
-2025-04-13 22:44:33.762434 - Found SAMPINFO.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/SAMPINFO
-2025-04-13 22:44:33.762584 - Found XMCLIST.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCLIST
-2025-04-13 22:44:33.762667 - Found XMCLIST$.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCLIST$
-2025-04-13 22:44:33.763012 - Found XMCLOAD.xmi (application/xmit) in CBT.V508.FILE776.PDS, moved to PDS/XMCLOAD.xmi
-2025-04-13 22:44:33.797777 - Received SYSW.M38K.CBT999.LOAD from XMCLOAD.xmi 
-2025-04-13 22:44:33.798413 - Found XMCLIST.bin (application/octet-stream) in SYSW.M38K.CBT999.LOAD, moved to XMCLOAD/XMCLIST
-2025-04-13 22:44:33.798589 - Found XMCUTIL.bin (application/octet-stream) in SYSW.M38K.CBT999.LOAD, moved to XMCLOAD/XMCUTIL
-2025-04-13 22:44:33.798864 - Found XMCUTIL.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCUTIL
-2025-04-13 22:44:33.798933 - Found XMCUTIL$.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCUTIL$
-2025-04-13 22:44:33.800511 - Found X86ZIP.zip (application/zip) in CBT.V508.FILE776.PDS, moved to X86ZIP
+2025-04-15 05:30:49.978975 - Received CBT.V508.FILE776.PDS from FILE776.XMI 
+2025-04-15 05:30:49.980687 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:30:49.981003 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:30:49.981314 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE2
+2025-04-15 05:30:49.981622 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE3
+2025-04-15 05:30:49.981943 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/$$NOTE4
+2025-04-15 05:30:49.982339 - Found @DCUSER.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/@DCUSER
+2025-04-15 05:30:49.982540 - Found @FILE776.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/@FILE776
+2025-04-15 05:30:49.982714 - Found EPUTL.bin (application/octet-stream) in CBT.V508.FILE776.PDS, moved to PDS/EPUTL
+2025-04-15 05:30:49.982877 - Found EPUTLJCL.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLJCL
+2025-04-15 05:30:49.983051 - Found EPUTLOLD.bin (application/octet-stream) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLOLD
+2025-04-15 05:30:49.983252 - Found EPUTLSRC.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/EPUTLSRC
+2025-04-15 05:30:49.983438 - Found JCC037.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/JCC037
+2025-04-15 05:30:49.983787 - Found README03.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/README03
+2025-04-15 05:30:49.986691 - Found RECV390.zip (application/zip) in CBT.V508.FILE776.PDS, moved to RECV390
+2025-04-15 05:30:49.986898 - Found SAMPINFO.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/SAMPINFO
+2025-04-15 05:30:49.987677 - Found XMCLIST.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCLIST
+2025-04-15 05:30:49.987978 - Found XMCLIST$.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCLIST$
+2025-04-15 05:30:49.989577 - Found XMCLOAD.xmi (application/xmit) in CBT.V508.FILE776.PDS, moved to PDS/XMCLOAD.xmi
+2025-04-15 05:30:50.028705 - Received SYSW.M38K.CBT999.LOAD from XMCLOAD.xmi 
+2025-04-15 05:30:50.030552 - Found XMCLIST.bin (application/octet-stream) in SYSW.M38K.CBT999.LOAD, moved to XMCLOAD/XMCLIST
+2025-04-15 05:30:50.031554 - Found XMCUTIL.bin (application/octet-stream) in SYSW.M38K.CBT999.LOAD, moved to XMCLOAD/XMCUTIL
+2025-04-15 05:30:50.032473 - Found XMCUTIL.txt (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCUTIL
+2025-04-15 05:30:50.032779 - Found XMCUTIL$.jcl (text/plain) in CBT.V508.FILE776.PDS, moved to PDS/XMCUTIL$
+2025-04-15 05:30:50.034567 - Found X86ZIP.zip (application/zip) in CBT.V508.FILE776.PDS, moved to X86ZIP
